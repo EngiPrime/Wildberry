@@ -10,7 +10,7 @@
 
 :root {
     /* Color palette */
-    --wildberry-primary: #a7d984;  /* фисташковый самая большая часть интерфейса */
+    --wildberry-primary: #77dd77;  /* пастельно-зеленый самая большая часть интерфейса */
     --wildberry-secondary: #bf86ad; /* лиловый боковые панели */
     --wildberry-secondary-alt: #abffd3; /* зеленый зеленый крутилки, всякие индикаторы прочитанного и прочая хуйня */
     --wildberry-tertiary: #fcb6d6; /* светло розовый */
