@@ -10,16 +10,16 @@
 
 :root {
     /* Color palette */
-    --wildberry-primary: #592d16;  /* самая большая часть интерфейса */
-    --wildberry-secondary: #f5aeb4; /* боковые панели */
-    --wildberry-secondary-alt: #ff8a24; /* крутилки, всякие индикаторы прочитанного и прочая хуйня */
-    --wildberry-tertiary: #4c007c;
-    --wildberry-accent-color : #00ffb7;
-    --wildberry-input-box: #350058;
-    --wildberry-mention:  #97004c;
-    --wildberry-red: #ff6c5c;
-    --wildberry-svg: #F40174;
-    --wildberry-less-hot: #cc0066;
+    --wildberry-primary: #592d16;  /* коричневый самая большая часть интерфейса */
+    --wildberry-secondary: #f5aeb4; /* красный боковые панели */
+    --wildberry-secondary-alt: #507d2a; /* зеленый крутилки, всякие индикаторы прочитанного и прочая хуйня */
+    --wildberry-tertiary: #0000ff; /* синий */
+    --wildberry-accent-color : #eb5284; /* розовый  */
+    --wildberry-input-box: #ffff00; /* желтый */
+    --wildberry-mention:  #ff9900; /* оранжевый */
+    --wildberry-red: #414a4c; /* серый */
+    --wildberry-svg: #17806d; /* голубой я */ 
+    --wildberry-less-hot: #7200a3; /* фиолетовый */
 
     /* Scrollbar */
     --wildberry-scrollbar-track: var(--wildberry-primary);
