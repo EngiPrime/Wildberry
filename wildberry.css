@@ -10,10 +10,10 @@
 
 :root {
     /* Color palette */
-    --wildberry-primary: #d3f7a3;  /* коричневый самая большая часть интерфейса */
-    --wildberry-secondary: #bf86ad; /* красный боковые панели */
-    --wildberry-secondary-alt: #abffd3; /* зеленый крутилки, всякие индикаторы прочитанного и прочая хуйня */
-    --wildberry-tertiary: #fcb6d6; /* синий */
+    --wildberry-primary: #a7d984;  /* фисташковый самая большая часть интерфейса */
+    --wildberry-secondary: #bf86ad; /* лиловый боковые панели */
+    --wildberry-secondary-alt: #abffd3; /* зеленый зеленый крутилки, всякие индикаторы прочитанного и прочая хуйня */
+    --wildberry-tertiary: #fcb6d6; /* светло розовый */
     --wildberry-accent-color : #eb5284; /* розовый  */
     --wildberry-input-box: #ffff00; /* желтый */
     --wildberry-mention:  #ff9900; /* оранжевый */
