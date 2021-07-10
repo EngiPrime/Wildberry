@@ -11,8 +11,8 @@
 :root {
     /* Color palette */
     --wildberry-primary: #ff43a4;
-    --wildberry-secondary: #350058;
-    --wildberry-secondary-alt:#F40174;
+    --wildberry-secondary: #f5aeb4;
+    --wildberry-secondary-alt:#ff8a24;
     --wildberry-tertiary: #4c007c;
     --wildberry-accent-color : #00ffb7;
     --wildberry-input-box: #350058;
