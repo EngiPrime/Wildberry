@@ -11,7 +11,7 @@
 :root {
     /* Color palette */
     --wildberry-primary: #592d16;  /* коричневый самая большая часть интерфейса */
-    --wildberry-secondary: #f5aeb4; /* красный боковые панели */
+    --wildberry-secondary: #ff0f23; /* красный боковые панели */
     --wildberry-secondary-alt: #507d2a; /* зеленый крутилки, всякие индикаторы прочитанного и прочая хуйня */
     --wildberry-tertiary: #0000ff; /* синий */
     --wildberry-accent-color : #eb5284; /* розовый  */
